@@ -1,4 +1,4 @@
-# Maintainer: leothelion <ponte-vecchio>
+# Maintainer: Daniel Vartanian <danielvartan>
 
 pkgname=positron-ide-devel-bin
 _pkgname=positron-ide

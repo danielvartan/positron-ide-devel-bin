@@ -1,0 +1,35 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#0092e7",
+    "activityBar.background": "#0092e7",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#ffbfe8",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#0092e7",
+    "statusBar.background": "#0072b4",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#0092e7",
+    "statusBarItem.remoteBackground": "#0072b4",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#0072b4",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#0072b499",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#0072b4",
+  "cSpell.ignorePaths": [
+    "/.github/**",
+    "/.vscode/**",
+    "PKGBUILD",
+    ".SRCINFO",
+  ],
+  "cSpell.words": [
+    "makepkg",
+    "PKGBUILD",
+    "ponte",
+    "Vartanian",
+    "vecchio"
+  ]
+}
