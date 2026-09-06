@@ -2,8 +2,8 @@
 
 pkgname=positron-ide-devel-bin
 _pkgname=positron-ide
-pkgver=2026.08.2.4
-pkgver_url=2026.08.2-4
+pkgver=2026.09.1.2
+pkgver_url=2026.09.1-2
 pkgrel=1
 pkgdesc="A next-generation data science IDE. Positron is an extensible, polyglot tool for writing code and exploring data in Python, R, and other languages."
 arch=('x86_64' 'aarch64')
@@ -57,8 +57,8 @@ provides=("positron")
 conflicts=("positron-bin")
 source_x86_64=("${posit_url}/x86_64/Positron-${pkgver_url}-x64.deb")
 source_aarch64=("${posit_url}/arm64/Positron-${pkgver_url}-arm64.deb")
-sha256sums_x86_64=('0e694502bdb876b7eea962b6dae3d77c7bcf22ebd0aedab7625e61520718dcea')
-sha256sums_aarch64=('10765960b1aaba292685660f8efefe2387f56644afc88f50ea74495ef806064d')
+sha256sums_x86_64=('21fa959af68847dbb0c13f3d3ad84665ff156e0af20a80469c4a1d5db018209b')
+sha256sums_aarch64=('93b03f2ab5cf240917b0696b8a3aa63328f286b42ba122f36df98ec88573f292')
 
 package(){
     shopt -s extglob
